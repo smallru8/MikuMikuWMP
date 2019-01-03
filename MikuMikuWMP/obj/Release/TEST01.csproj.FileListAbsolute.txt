@@ -1,0 +1,17 @@
+F:\VC\WMP-MIKU01-B1\TEST01\bin\Release\TEST01.exe
+F:\VC\WMP-MIKU01-B1\TEST01\bin\Release\TEST01.pdb
+F:\VC\WMP-MIKU01-B1\TEST01\bin\Release\Interop.WMPLib.dll
+F:\VC\WMP-MIKU01-B1\TEST01\bin\Release\AxInterop.WMPLib.dll
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.csprojAssemblyReference.cache
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\Interop.WMPLib.dll
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\AxInterop.WMPLib.dll
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.csproj.ResolveComReference.cache
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.Form1.resources
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.Form2.resources
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.Form3.resources
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.Form4.resources
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.Properties.Resources.resources
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.csproj.GenerateResource.cache
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.csproj.CoreCompileInputs.cache
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.exe
+F:\VC\WMP-MIKU01-B1\TEST01\obj\Release\TEST01.pdb
